@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_margin="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="3"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txtNomeRepo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nome Repositorio"
+            android:textAlignment="textStart"
+            android:textColor="@color/title_color"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtDescRepo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Descricao do repositorio nonononno nonononno nonono"
+            android:textAlignment="textStart"
+            android:textColor="@color/primary_black_color"
+            android:textSize="14sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_marginTop="14dp">
+
+
+            <ImageView
+                android:id="@+id/imgForks"
+                android:layout_width="16dp"
+                android:layout_height="20dp"
+                android:scaleType="centerCrop"
+                app:srcCompat="@mipmap/ic_github_forks" />
+
+            <TextView
+                android:id="@+id/txtForks"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="640"
+                android:textAlignment="textStart"
+                android:layout_marginRight="14dp"/>
+
+            <ImageView
+                android:id="@+id/imgStar"
+                android:layout_width="16dp"
+                android:layout_height="20dp"
+                android:scaleType="centerCrop"
+                app:srcCompat="@mipmap/ic_github_star" />
+
+            <TextView
+                android:id="@+id/txtStar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="98"
+                android:textAlignment="textStart" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="7"
+        android:orientation="vertical"
+        android:layout_marginLeft="16dp">
+
+
+        <ImageView
+            android:id="@+id/imgAvatarUser"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:scaleType="centerCrop"
+            app:srcCompat="@mipmap/ic_github" />
+
+        <TextView
+            android:id="@+id/txtUserName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="username"
+            android:textAlignment="center"
+            android:textColor="@color/title_color"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtNomeUser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="nome sobrenome"
+            android:textAlignment="center"
+            android:textColor="@color/second_black_color"
+            android:textSize="10sp" />
+    </LinearLayout>
+
+</LinearLayout>

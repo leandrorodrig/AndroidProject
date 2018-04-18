@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GitHub JavaPop</string>
+    <string name="avatar_desc">avatar</string>
+    <string name="base_url_github">https://api.github.com</string>
+    <string name="language">language:Java</string>
+    <string name="sort">stars</string>
+    <string name="per_page">15</string>
+    <string name="retry">REPETIR</string>
+
+</resources>

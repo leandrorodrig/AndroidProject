@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Tue Apr 17 07:58:54 BRT 2018
+1.base=C\:\\Users\\leoro\\Downloads\\Android_project-20180416T231810Z-001\\Android_project\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\Users\\leoro\\Downloads\\Android_project-20180416T231810Z-001\\Android_project\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+1.path=classes.dex

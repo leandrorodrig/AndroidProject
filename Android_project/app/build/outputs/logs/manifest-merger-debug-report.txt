@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2cb034e25af11a373a9b8a9e068aa8f3\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.paging:runtime:1.0.0-alpha4-1] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha4-1.aar\1874779123fd0fdf59ee3116a8ae63b0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\4643afc8f1eeab1314b9b441cf3f2a67\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\3df4f8bd5d2400d67bcfe13856a62a0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\bae8bad6c3873abad838c20c5df63888\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\5ac382a14868f75bd5f163a25cfdc5f8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\9fd1265300a6073697fa0da9891f3cc9\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\6035b70ce18dd09cd6d34ed1f25fe8db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\eaa04b0f54a09849dc3bf10d54fd58c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\33af8251050f989b5fd8d5626eb7902a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\86790b4de0632c1d8dcf535678dba6a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\e1c81e4451af474266b966db7d5b21fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\5a12d930b82936fd0b7b90fa37d6d14d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\b601fe9a6176955cc68bbe9f36fd538b\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.core:runtime:1.0.0] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0ee727a01c8b35118c48c87fc1fabf8b\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2cb034e25af11a373a9b8a9e068aa8f3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2cb034e25af11a373a9b8a9e068aa8f3\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\4643afc8f1eeab1314b9b441cf3f2a67\AndroidManifest.xml:24:5-30:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\4643afc8f1eeab1314b9b441cf3f2a67\AndroidManifest.xml:24:5-30:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\5ac382a14868f75bd5f163a25cfdc5f8\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\5ac382a14868f75bd5f163a25cfdc5f8\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:13:9-40
+activity#leandrorodrig.com.br.desafioandroid.RepositoryActivity
+ADDED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:14:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2cb034e25af11a373a9b8a9e068aa8f3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2cb034e25af11a373a9b8a9e068aa8f3\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.paging:runtime:1.0.0-alpha4-1] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha4-1.aar\1874779123fd0fdf59ee3116a8ae63b0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.paging:runtime:1.0.0-alpha4-1] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha4-1.aar\1874779123fd0fdf59ee3116a8ae63b0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\4643afc8f1eeab1314b9b441cf3f2a67\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\4643afc8f1eeab1314b9b441cf3f2a67\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\3df4f8bd5d2400d67bcfe13856a62a0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\3df4f8bd5d2400d67bcfe13856a62a0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\bae8bad6c3873abad838c20c5df63888\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\bae8bad6c3873abad838c20c5df63888\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\5ac382a14868f75bd5f163a25cfdc5f8\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\5ac382a14868f75bd5f163a25cfdc5f8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\9fd1265300a6073697fa0da9891f3cc9\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\9fd1265300a6073697fa0da9891f3cc9\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\6035b70ce18dd09cd6d34ed1f25fe8db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\6035b70ce18dd09cd6d34ed1f25fe8db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\eaa04b0f54a09849dc3bf10d54fd58c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\eaa04b0f54a09849dc3bf10d54fd58c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\33af8251050f989b5fd8d5626eb7902a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\33af8251050f989b5fd8d5626eb7902a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\86790b4de0632c1d8dcf535678dba6a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\86790b4de0632c1d8dcf535678dba6a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\e1c81e4451af474266b966db7d5b21fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\e1c81e4451af474266b966db7d5b21fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\5a12d930b82936fd0b7b90fa37d6d14d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\5a12d930b82936fd0b7b90fa37d6d14d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\b601fe9a6176955cc68bbe9f36fd538b\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\b601fe9a6176955cc68bbe9f36fd538b\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0ee727a01c8b35118c48c87fc1fabf8b\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0ee727a01c8b35118c48c87fc1fabf8b\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\leoro\Downloads\Android_project-20180416T231810Z-001\Android_project\app\src\main\AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\4643afc8f1eeab1314b9b441cf3f2a67\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\4643afc8f1eeab1314b9b441cf3f2a67\AndroidManifest.xml:27:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\4643afc8f1eeab1314b9b441cf3f2a67\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\4643afc8f1eeab1314b9b441cf3f2a67\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\leoro\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\4643afc8f1eeab1314b9b441cf3f2a67\AndroidManifest.xml:26:13-83
